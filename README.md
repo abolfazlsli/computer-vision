@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/3a9c6b3c-d764-41ff-86f9-eb6e21511cc3
 ---
 
 ### **README.md**
@@ -57,3 +59,12 @@ The script loads configuration settings from a JSON file. Below is an example:
 3. Press **'Q'** to exit the program.
 
 ---
+
+## **Out put ** : 
+
+
+
+https://github.com/user-attachments/assets/cf947c02-6848-4953-b737-d097f00097a9
+
+
+
