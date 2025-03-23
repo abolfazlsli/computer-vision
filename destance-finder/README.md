@@ -52,3 +52,7 @@ Modify **`setting.json`** to change the behavior:
 ---
 
 **Press `Q` to exit.** 🛑  
+
+
+https://github.com/user-attachments/assets/a2700658-5d2e-4dea-9c91-712021d4ea41
+
