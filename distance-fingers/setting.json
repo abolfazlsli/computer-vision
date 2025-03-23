@@ -1,0 +1,9 @@
+{
+    "handlandmark" : 8 ,
+    "lildraw" : false , 
+    "draw" : false,
+    "linecolor" : [0 , 255 , 0] , 
+    "textcolor" : [0 , 255 , 0] , 
+    "pointcolor" : [0 , 0 , 255] ,
+    "windowname" : "distance detector"
+}
