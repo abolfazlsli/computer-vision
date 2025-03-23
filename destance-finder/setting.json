@@ -1,0 +1,9 @@
+{
+    "draw" : false , 
+    "lildraw" : true , 
+    "pointcolor" : [0 ,255 , 0] ,
+    "windowname" : "show distance" , 
+    "point1" : 8 , 
+    "point2" : 4 , 
+    "linecolor" : [0 ,255 , 0] 
+}
